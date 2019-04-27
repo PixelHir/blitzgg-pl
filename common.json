@@ -1,14 +1,14 @@
 {
   "login": "Login",
-  "emailAddress": "Email address",
-  "password": "Password",
+  "emailAddress": "Adres email",
+  "password": "Hasło",
   "offline": "Offline",
   "online": "Online",
-  "lolClientOff": "LoL Client Off",
+  "lolClientOff": "Klient LoL jest wyłączony",
   "update": {
-    "smarter": "Sit tight while we make Blitz smarter.",
-    "newVersion": "A new version is available.",
-    "update": "Update and relaunch."
+    "smarter": "Usiądź wygodnie, kiedy my ulepszamy Blitz.",
+    "newVersion": "Jest dostępna nowa wersja.",
+    "update": "Zaktualizuj i zrestartuj."
   },
   "sendFeedback": "Send Feedback",
   "recentlySearched": "Recently Searched",
