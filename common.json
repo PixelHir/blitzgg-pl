@@ -1,0 +1,143 @@
+{
+  "login": "Login",
+  "emailAddress": "Email address",
+  "password": "Password",
+  "offline": "Offline",
+  "online": "Online",
+  "lolClientOff": "LoL Client Off",
+  "update": {
+    "smarter": "Sit tight while we make Blitz smarter.",
+    "newVersion": "A new version is available.",
+    "update": "Update and relaunch."
+  },
+  "sendFeedback": "Send Feedback",
+  "recentlySearched": "Recently Searched",
+  "users": "Users",
+  "getStarted": "Get Started",
+  "testVersion": "Test Version",
+  "copyLink": "Copy Link",
+  "navigation": {
+    "home": "Home",
+    "champions": "Champions",
+    "tierList": "Tier List",
+    "promoButton": "Get the App",
+    "statsReport": "Stats Report"
+  },
+  "share": {
+    "text": "Share this match",
+    "copied": "Web link copied to clipboard!",
+    "page": "Share this exact page via a browser accessible link.",
+    "match": "Share this match via a browser accessible link."
+  },
+  "mvp": {
+    "perks": "Free Perks",
+    "support": "Support Blitz's development",
+    "join": "Join Blitz MVP for $4.99 / mo",
+    "future": "…and a ton of new perks exclusive for MVP members in the future!"
+  },
+  "settings": {
+    "settings": "Settings",
+    "startup": "Run Blitz on startup",
+    "auto": "Auto Display",
+    "when": "When Draft or Live is ready.",
+    "disableAnimations": "Disable Animations",
+    "import": {
+      "runes": "Auto Import Runes",
+      "builds": "Auto Import Builds",
+      "spells": "Auto Import Spells",
+      "toggle": "Toggle to clear all existing builds."
+    },
+    "tilt": "Tilt-Free Mode",
+    "disableTiltFree": "Disable Tilt-Free",
+    "hiddenRanks": "Player ranks and playstyles are hidden so you can focus on yourself.",
+    "hide": "Hide all player ranks and info in live.",
+    "badges": {
+      "show": "Show All Badges",
+      "postmatch": "Show all badges (including the bad ones) in post-match by default."
+    },
+    "directory": "LoL game directory",
+    "detect": "If we could not auto detect your installation folder, this can be set manually.",
+    "accounts": "Accounts",
+    "updates": "Check for updates",
+    "restart": "Restart the app"
+  },
+  "works": {
+    "how": "How Blitz Works",
+    "howItWorks": "How It Works",
+    "chrome": "You never have to start up Chrome before a game again."
+  },
+  "footer": {
+    "made": {
+      "tilt": "Made with Lots of Love and Tilt in California."
+    },
+    "disclaimer": "Blitz Desktop App isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc."
+  },
+  "tooltips": {
+    "one": "Crafted by Blitz analysts with input from Challenger and pro players.",
+    "two": "New tier list comes out 1 day after new patch. Will continue to update throughout the patch."
+  },
+  "error": {
+    "emailRequired": "Email required",
+    "invalidEmail": "Invalid email address",
+    "passwordRequired": "Password required",
+    "emailRegistered": "Email is already registered. Login via 'I already have an account.'",
+    "serverError": "Server error. Check our Discord.",
+    "incorrectSubmission": "Wrong email or password",
+    "loginFailed": "Login failed!",
+    "invalidInput": "Invalid Input",
+    "maximumAccounts": "Reached Maximum Accounts Limit",
+    "summonerDoesntExist": "Summoner does not exist in this region. Try again.",
+    "summonerNotFound": "We're unable to find the summoner name in the region specified. Make sure you're not entering your login username, and check the region. Enter the same name you use to look yourself up on op.gg or similar sites.",
+    "missingSpellData": "'?' indicates that the data isn't available via the Riot Games API. Check the LoL client for the latest values.",
+    "notWorking": "Not working? Join our Discord for help.",
+    "checkSpelling": "Please double check region and spelling."
+  },
+  "betaTester": {
+    "welcome": "Welcome, Blitz Beta Tester!",
+    "thanks": "Thanks for being part of an exclusive group helping us improve the app.",
+    "howUsed": "So how do you use the Blitz app?",
+    "steps": {
+      "one": {
+        "part1": "Start a 5v5 League game.",
+        "part2": "We'll auto-detect your champion, recommend runes and builds, and scout your teammates and opponents. No typing required."
+      },
+      "two": "Track your performance when you aren't in game. We provide match history and champion stats with recommended builds from top players."
+    },
+    "gotIt": "Got it. Let me in!",
+    "blitzBetaPatchNotes": "Blitz Beta Patch {{version}} Notes",
+    "joinDiscord": "Join our Discord"
+  },
+  "placeholders": {
+    "searchSummoner": "Search summoner or champion",
+    "lookChampion": "Look for a champion",
+    "email": "Email",
+    "summonerName": "Summoner Name (e.g. imaqtpie)",
+    "exampleSummoner": "Ex. imaqtpie"
+  },
+  "garenaSupport": "Garena support is in <1>beta testing</1> from Blitz and the Riot Games API. As such, certain features like <3>live game</3> and <5>enemy scouting</5> are not available.",
+  "phRestriction": "Blitz can't run in PH due to IP restrictions.",
+  "client": {
+    "reload": "Reload",
+    "defaultWindowSize": "Restore to Default Window Size",
+    "checkForUpdates": "Check for Updates...",
+    "quitApp": "Quit Blitz",
+    "openDevTools": "Open Dev Tools"
+  },
+  "players": "Players",
+  "languageDropdown": {
+    "region": "Region",
+    "garenaRegion": "Garena Region",
+    "language": "Language"
+  },
+  "restartBar": {
+    "readyToInstall": "Update Ready to Install. Restarting in {{seconds}} seconds…",
+    "restart": "Restart",
+    "restartToApply": "We will restart in {{seconds}} seconds to apply the updates.",
+    "intervals": {
+      "later": "Later",
+      "fifteenMins": "15 Minutes",
+      "thirtyMins": "30 Minutes",
+      "oneHour": "1 Hour"
+    }
+  }
+}

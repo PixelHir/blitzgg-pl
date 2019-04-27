@@ -1,0 +1,259 @@
+{
+  "here": "tutaj",
+  "new": "Nowy",
+  "header": {
+    "part1": "Narzędzie League of Legends które robi wszystko za ciebie.",
+    "part2": "Automatycznie."
+  },
+  "download": "Pobierz za Darmo na Windows",
+  "downloadMac": "Pobierz za Darmo na macOS",
+  "landingHome": {
+    "championBox1": {
+      "header": "Automatyczne Runy i Buildy",
+      "description": "Blitz używa tego co się znajduje na twoim ekranie aby zidentyfikować twojego bohatera i zimportować dla Ciebie najlepsze buildy do klienta LoL."
+    },
+    "championBox2": {
+      "header": "Wgląd do twojego klienta",
+      "description": "Blitz automatycznie identyfikuje Twoich bohaterów i pokazuje Ci jak kontrować konkretnych przeciwników"
+    }
+  },
+  "downloadPage": {
+    "title": "Właśnie odnowiliśmy Nasz wygląd, musisz to zobaczyć!",
+    "getWindows": "Pobierz Blitz na Windows",
+    "getMac": "Pobierz Blitz na macOS",
+    "description": "Zdobądź wszystko czego potrzebujesz do wygrania gry, automatycznie."
+  },
+  "marketing": {
+    "runes": {
+      "header": "Runy, buildy, oraz wskazówki od Pretendentów jak kontrować przeciwnika",
+      "description": "Blitz używa <1>wizji komputera</1> aby automatycznie zidentifikować twojego bohatera i pokazuje jak pokonać twojego przeciwnika na lini."
+    }
+  },
+  "select": {
+    "header": "Rozeznanie twojej drużyny i przeciwnika w Wyborze Bohaterów w czasie rzeczywistym"
+  },
+  "postmatch": {
+    "header": "Pomocna analiza i wyniki po meczu",
+    "description": "Blitz <1>automatycznie</1> ocenia twoje dokonania w grze i identyfikuje twoje mocne strony i błędy, więc możesz się doskonalić za każdym razem."
+  },
+  "process": {
+    "part1": "Włącz gre i poczekaj aż Wybór Bohaterów się pojawi.",
+    "part2": "Blitz używa wizji komputera żeby wykryć twojego bohatera i twoją drużynę.",
+    "part3": "Blitz automatycznie pokazuje runy, buildy i statystyki twojej drużyny. Nie trzeba nic wpisywać."
+  },
+  "try": "Bądź pierwszy który wypróbuje Aplikacje Blitz (beta)",
+  "redBar": {
+    "tagline": "Zmęczony czekaniem aż Chrome się załaduje? Przetestuj Naszą DARMOWĄ Aplikację: automatyczne runy, buildy i wskazówki jak kontrować przeciwnika.",
+    "button": "Dowiedz się więcej"
+  },
+  "tierList": "Lista Poziomów League of Legends w Blitz pokazuje najlepszych i najgorszych bohaterów Patcha {{patch}} z komentarzem dotyczącym głównych buffów, nerfów, oraz kontry przez naszych analityków Pretendentów. Naciśnij na bohatera poniżej aby zobaczyć najlepsze runy, buildy, oraz kontry poprzez najwyższy współczynnik wygranej.",
+  "championHome": {
+    "header": "Narzędzie League of Legends które zrobi to wszystko. Automatycznie.",
+    "features": "Wszystkie funkcje OP.GG + Champion.gg, zautomatyzowane i wrzucone do jednej aplikacji",
+    "notFound": {
+      "part1": "Gdzie się schowałeś?",
+      "part2": "Nasze serwery nie mogły Cię znaleźć"
+    },
+    "refresh": "Kliknij tutaj aby odświerzyć. To może też być po stronie naszych serwerów.",
+    "championStats": "Statystyki Bohaterów"
+  },
+  "tos": {
+    "terms": {
+      "title": "Warunki",
+      "content": "Wchodząc na tę stronę, zgadzasz się przestrzegać niniejszych warunków korzystania z witryny, wszystkich obowiązujących praw i przepisów, oraz że jesteś odpowiedzialny za przestrzeganie wszystkich lokalnych praw. Jeśli nie zgadzasz się z jakimkolwiek z tych warunków, nie wolno Ci używać tej strony. Wszystkie materiały zawarte na tej stronie są chronione przez obowiązujące prawo autorskie i znak towarowy."
+    },
+    "useLicense": {
+      "title": "Licencja użytkowania",
+      "content": "Zgoda jest udzielana na tymczasowe pobranie jednej kopii materiału (informacji lub oprogramowania) na stronie Blitz'a do użytku osobistego, niekomercyjnego przeglądania tymczasowego. Jest to udzielenie licencji, a nie transfer tytułu, na mocy tej licencji nie możesz:",
+      "li1": "modyfikować lub kopiować materiałów",
+      "li2": "używać materiałów do jakichkolwiek celów komercyjnych, lub do pokazu publicznego (komercyjnego lub niekomercyjnego)",
+      "li3": "próbować dekompilować lub odtworzyć oprogramowanie znajdujące się na stronie Blitz'a;",
+      "li4": "usuwać jakichkolwiek praw autorskich oraz innych prawnie strzeżonych notacji z materiałów; lub",
+      "li5": "przenosić materiały do innej osoby lub kopiować materiały na inny serwer.",
+      "content2": "Ta licencja wygasa automatycznie w przypadku naruszenia którego kolwiek z tych zasad i może zostać rozwiązana przez Blitz w dowolnym momencie. Po zakończeniu oglądania jakiegokolwiek z tych materiałów lub po rozwiązaniu tej licencji, musisz zniszczyć wszystkie pobrane materiały czy są one w formie elektronicznej czy wydrukowanej."
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "content": "The materials on Blitz’s website are provided \"as is\". Blitz makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Blitz does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of materials on its Internet website or otherwise relating to such materials or on any sites linked to this site."
+    },
+    "limitations": {
+      "title": "Ograniczenia",
+      "content": "W żadnym wypadku Blitz oraz jego dostawcy nie ponoszą odpowiedzialności za jakiekolwiek szkody (w tym, utracenie danych, lub w przypadku przerwania działalności) wynikające z używania lub nieumiejętności korzystania z materiałów na stronie internetowej Blitz'a, nawet jeśli Blitz lub jego autoryzowany przedstawiciel zostanie poinformowany ustnie lub w wiadomości o możliwości takiej szkody. Ponieważ "!!!!!
+    },
+    "revision": {
+      "title": "Revisions and Errata",
+      "content": "The materials appearing on Blitz’s website could include technical, typographical, or photographic errors. Blitz does not warrant that any of the materials on its website are accurate, complete, or current. Blitz may make changes to the materials contained on its website at any time without notice. Blitz does not, however, make any commitment to update the materials."
+    },
+    "links": {
+      "title": "Links",
+      "content": "Blitz has not reviewed all of the sites linked to its Internet website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Blitz of the site. Use of any such linked website is at the user's own risk."
+    },
+    "modifications": {
+      "title": "Sites Term of Use Modifications",
+      "content": "Blitz may revise these terms of use for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these Terms and Conditions of Use."
+    },
+    "law": {
+      "title": "Governing Law",
+      "content": "Any claim relating to Blitz's website shall be governed by the laws of the State of California without regard to its conflict of law provisions. General Terms and Conditions applicable to Use of a Web Site."
+    }
+  },
+  "pp": {
+    "information": {
+      "title": "What information do we collect?",
+      "content": "We collect information from you when you register on our site. When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on this site. Google uses of the DART cookie enables it to serve ads to your users based on their visit to yur sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy."
+    },
+    "informationUse": {
+      "title": "What do we use your information for?",
+      "content": "Any of the information we collect from you may be used in one of the following ways:",
+      "content2": "To personalize your experience (your information helps us to better respond to yur individual needs). To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you). To administer a contest, promotion, survey or other site feature."
+    },
+    "protection": {
+      "title": "How do we protect your information?",
+      "content": "We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (cretid cards, social security numbers, financials, etc.) will not be stored on our servers."
+    },
+    "cookies": {
+      "title": "Do we use cookies?",
+      "content": "Yes, Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to understand and save your preferences for future visits."
+    },
+    "disclosure": {
+      "title": "Do we disclose any information to outside parties?",
+      "content": "We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other ueses."
+    },
+    "coppac": {
+      "title": "California Online Privacy Protection Act Compliance",
+      "content": "Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel on the forums and going to the \"My Settings\" page."
+    },
+    "choppac": {
+      "title": "Childrens Online Privacy Protection Act Compliance",
+      "content": "We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. "
+    },
+    "opon": {
+      "title": "Online Privacy Policy Only",
+      "content": "This online privacy policy applies only to information collected through our website and not to information collected offline."
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "content": "Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website "
+    },
+    "consent": {
+      "title": "Your Consent",
+      "content": "By using our site, you consent to our privacy policy."
+    },
+    "changes": {
+      "title": "Changes to our Privacy Policy",
+      "content": "If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. This policy was last modified on April 4, 2019."
+    },
+    "contact": {
+      "title": "Contacting Us",
+      "content": "If there are any questions regarding this privacy policy you may contact us using the information here. This policy is powered by Trust Guard PCI compliant security scanning."
+    }
+  },
+  "team": {
+    "talent": "Meet the Team",
+    "apply": "Apply to our Team",
+    "heading": "We’re on a mission to change the landscape of Esports — integrating ourselves in the lives of millions of gamers everywhere.",
+    "subHeading": "We work hard and we play to win — inspired by the future and eager to be a part of it. Come make the best work of your life, alongside people you can collaborate and also knock out a few matches with.",
+    "diashowHeading": "We’re building a strong, diverse team of passionate and creative people, who want to join in and build game-changing platforms.",
+    "globeHeading": "While our headquarters are in Playa Vista, CA — our team connects every day from all over the world.",
+    "values": {
+      "title": "Our Core Values",
+      "improving": {
+        "title": "Improving one game at a time",
+        "content": "Every project at Blitz begins in an effort to improve the experience of the games that we play."
+      },
+      "opportunities": {
+        "title": "Seeking Big Opportunities",
+        "content": "Technology changes quickly, and we always want to stay one step ahead. By focusing on the future we can realize bigger opportunities."
+      },
+      "magic": {
+        "title": "Making Magic",
+        "content": "Every experience should be magic. When people use our apps, we want them to wonder how they ever lived without them."
+      },
+      "connected": {
+        "title": "Staying Connected",
+        "content": "We’ve partnered with big names in the Esports and game development communities to make sure that the content we're delivering to you has the most experienced eyes on it."
+      },
+      "impact": {
+        "title": "being Impactful",
+        "content": "Our designs are used by millions around the world every day. We try hard to simplify and improve our users’ lives."
+      }
+    }
+  },
+  "footer": {
+    "gin": "Get in Touch",
+    "tos": "Terms of Service",
+    "pp": "Privacy Policy",
+    "team": "Our Team",
+    "discord": "Our Discord",
+    "rtc": "Riot Games Compliant",
+    "line": "Made with Lots of Love and Tilt in Los Angeles, CA."
+  },
+  "faq": {
+    "header": "Frequently Asked Questions",
+    "header2": "Troubleshooting",
+    "discord": "If you have any questions, feel free to join our",
+    "questions": {
+      "q1": {
+        "title": "Q: What does the Blitz app do, and how does it work?",
+        "content1": "Blitz uses the",
+        "content2": "League Client APIs",
+        "content3": "to automatically identify your champion and recommend the best runes and builds to counter your specific lane opponent. We also grab your teammate's Summoner Names when you enter champion select and automatically display their strengths and ranked winrates on their chosen champion.",
+        "content4": "When you are not in game, Blitz builds a personalized profile of your unique strengths and weaknesses so you can improve over time."
+      },
+      "q2": {
+        "title": "Q: How do I know if Blitz is working on my PC?",
+        "content1": "If your League of Legends client is on, you should see the \"Online\" indicator in the Blitz app:",
+        "content2": "If you don't see \"Online\",",
+        "content3": "click here",
+        "content4": "for troubleshooting section."
+      },
+      "q3": {
+        "title": "Q: Where does Blitz gets its data from?",
+        "content1": "Blitz does not use any stats from other third party applications/sites.",
+        "content2": "We fetch all our data directly from the Riot's League of Legends API and analyze them ourselves. All recommendations and stats currently come from Platinum + ranked games worldwide."
+      },
+      "q4": {
+        "title": "Q: Will Blitz get me banned?",
+        "content1": "No, we are totally",
+        "content2": "Riot Compliant",
+        "content3": ". You will not get banned for using Blitz since it doesn't give you any advantages in game. You still have to play like everyone else. In fact many Rioters are using Blitz too!",
+        "content4": "We talk with Riot before developing any major features to make sure they are okay with what we are doing!"
+      },
+      "q5": {
+        "title": "Q: What makes Blitz's recommendations better?",
+        "content1": "We built Blitz for the everyday player. The app not only provides general recommendations, but more importantly, matchup-specific info (i.e. What's best vs your lane opponent).",
+        "content2": "We are also the only data-driven tool that gives you detailed component-level build order (Sheen > Phage > Stinger vs just Trinity Force).",
+        "content3": "You can filter all recommendations by 1) the most frequent build, or 2) the build with the highest win rate (that surpasses a certain frequency, so our data isn’t skewed by outliers that snowball early).",
+        "content4": "Of course, data-driven builds are never perfect, so do think critically on what you think is best for you. Our expert-crafted champion tips do have some suggestions on what to do in specific scenarios!"
+      },
+      "q6": {
+        "title": "Q: Can I change accounts/summoners?",
+        "content1": "Yes you can. Blitz recognizes if you changed League accounts and automatically adds them to Blitz. If you want to remove accounts, go to your Blitz settings (top right of the app) and remove them from the account section."
+      },
+      "q7": {
+        "title": "Q: Will running the Blitz desktop app lag my computer?",
+        "content1": "No, when Blitz isn't actively being used, we essentially \"pause\" the app to use minimal resources."
+      },
+      "q8": {
+        "title": "Q: Why isn't Blitz available on the Philippines?",
+        "content1": "Blitz can't run in PH due to IP restrictions. We'll support it in the future!"
+      }
+    },
+    "troubleshooting": {
+      "q1": {
+        "title": "Q: The Blitz app isn't detecting properly when I enter champion select.",
+        "content1": "With your League of Legends client open, does the top righthand corner of the Blitz app indicate the following?",
+        "content2": "If not:",
+        "content3": "Open your Blitz settings, the gear icon in the top right corner, and check if your League game directory is setup correctly, if not enter your correct League path.",
+        "content4": "If your game directory is correct, you might want to simply restart your League client.",
+        "content5": "If none of the above options work, reach out on the Blitz",
+        "content6": "and we'll help debug."
+      },
+      "q2": {
+        "title": "Q: My app won't update properly.",
+        "content1": "Please let us know via the feedback button at the bottom righthand corner of the Blitz app (this sends us the logs), and we'll get back to you as soon as possible. In the meantime, you can download the latest version of the Blitz app here.",
+        "content2": "If this happens repeatedly, reach out on the Blitz"
+      }
+    }
+  }
+}
