@@ -10,118 +10,118 @@
     "newVersion": "Jest dostępna nowa wersja.",
     "update": "Zaktualizuj i zrestartuj."
   },
-  "sendFeedback": "Send Feedback",
-  "recentlySearched": "Recently Searched",
-  "users": "Users",
-  "getStarted": "Get Started",
-  "testVersion": "Test Version",
-  "copyLink": "Copy Link",
+  "sendFeedback": "Przekaż Opinię",
+  "recentlySearched": "Ostatnie Wyszukiwania",
+  "users": "Użytkownicy",
+  "getStarted": "Zaczynajmy",
+  "testVersion": "Wersja Testowa",
+  "copyLink": "Skopiuj Link",
   "navigation": {
-    "home": "Home",
-    "champions": "Champions",
-    "tierList": "Tier List",
-    "promoButton": "Get the App",
-    "statsReport": "Stats Report"
+    "home": "Strona Główna",
+    "champions": "Bohaterowie",
+    "tierList": "Lista Najlepszych Bohaterów",
+    "promoButton": "Zdobądź Aplikację",
+    "statsReport": "Raport Statystyk"
   },
   "share": {
-    "text": "Share this match",
-    "copied": "Web link copied to clipboard!",
-    "page": "Share this exact page via a browser accessible link.",
-    "match": "Share this match via a browser accessible link."
+    "text": "Udostępnij ten mecz",
+    "copied": "Skopiowano link do schowka!",
+    "page": "Udostępnij tą stronę poprzez wklejenie linku do przeglądarki.",
+    "match": "Udostępnij ten mecz poprzez wklejenie linku do przeglądarki."
   },
   "mvp": {
-    "perks": "Free Perks",
-    "support": "Support Blitz's development",
-    "join": "Join Blitz MVP for $4.99 / mo",
-    "future": "…and a ton of new perks exclusive for MVP members in the future!"
+    "perks": "Darmowe Profity",
+    "support": "Wspieraj rozwój Blitz'a",
+    "join": "Dołącz do Blitz MVP za $4.99 / mies.",
+    "future": "…oraz masę ekskluzywnych dodatków dla posiadaczy MVP w przyszłości!"
   },
   "settings": {
-    "settings": "Settings",
-    "startup": "Run Blitz on startup",
-    "auto": "Auto Display",
-    "when": "When Draft or Live is ready.",
-    "disableAnimations": "Disable Animations",
+    "settings": "Ustawienia",
+    "startup": "Uruchamiaj Blitz w tle",
+    "auto": "Automatycznie Wyświetlaj",
+    "when": "Kiedy Draft lub Mecz jest gotowy.",
+    "disableAnimations": "Wyłącz Animacje",
     "import": {
-      "runes": "Auto Import Runes",
-      "builds": "Auto Import Builds",
-      "spells": "Auto Import Spells",
-      "toggle": "Toggle to clear all existing builds."
+      "runes": "Automatycznie Importuj Runy",
+      "builds": "Automatycznie Importuj Buildy",
+      "spells": "Automatycznie Importuj Czary",
+      "toggle": "Przełącz żeby wyczyścić wszystkie aktualne buildy."
     },
-    "tilt": "Tilt-Free Mode",
-    "disableTiltFree": "Disable Tilt-Free",
-    "hiddenRanks": "Player ranks and playstyles are hidden so you can focus on yourself.",
-    "hide": "Hide all player ranks and info in live.",
+    "tilt": "Tryb Bez Tiltu",
+    "disableTiltFree": "Wyłącz Tryb Bez Tiltu",
+    "hiddenRanks": "Rangi graczy i ich styl grania nie będzie pokazywany, będzisz mógł się skupić na samym sobie.",
+    "hide": "Ukryj wszystkie rangi graczy oraz informacje podczas gry.",
     "badges": {
-      "show": "Show All Badges",
-      "postmatch": "Show all badges (including the bad ones) in post-match by default."
+      "show": "Pokaż Wszysktie Odznaki",
+      "postmatch": "Pokaż Wszysktie Odznaki (wliczając też te złe) po meczu."
     },
-    "directory": "LoL game directory",
-    "detect": "If we could not auto detect your installation folder, this can be set manually.",
-    "accounts": "Accounts",
-    "updates": "Check for updates",
-    "restart": "Restart the app"
+    "directory": "Lokalizacja folderu LoLa",
+    "detect": "Jeśli nie znaleźliśmy gry automatycznie, możesz ją tu ustawić.",
+    "accounts": "Konta",
+    "updates": "Sprawdź aktualizacje",
+    "restart": "Zrestartuj aplikacje"
   },
   "works": {
-    "how": "How Blitz Works",
-    "howItWorks": "How It Works",
-    "chrome": "You never have to start up Chrome before a game again."
+    "how": "Jak Działa Blitz",
+    "howItWorks": "Jak To Działa",
+    "chrome": "Już nigdy nie będziesz musiał włączać Chrome przed grą."
   },
   "footer": {
     "made": {
-      "tilt": "Made with Lots of Love and Tilt in California."
+      "tilt": "Stworzone z dużą ilością miłości w Kalifornii"
     },
-    "disclaimer": "Blitz Desktop App isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc."
+    "disclaimer": "Aplikacja Blitz nie jest własnością Riot Games i nie odzwierciedla poglądów i opini Riot Games ani nikogo oficjalnie zangażowanego w produkcję League of Legends. League of Legends oraz Riot Games są znakami towarowymi lub zarejestrowanymi znakami towarowymi Riot Games, Inc. League of Legends © Riot Games, Inc."
   },
   "tooltips": {
-    "one": "Crafted by Blitz analysts with input from Challenger and pro players.",
-    "two": "New tier list comes out 1 day after new patch. Will continue to update throughout the patch."
+    "one": "Wykonane przez analityków Blitz z wkładem Pretendentów i pro graczy.",
+    "two": "Nowa lista najlepszych bohaterów wychodzi 1 dzień po patchu. Każdy patch będzie nadal aktualizowany.",
   },
   "error": {
-    "emailRequired": "Email required",
-    "invalidEmail": "Invalid email address",
-    "passwordRequired": "Password required",
-    "emailRegistered": "Email is already registered. Login via 'I already have an account.'",
-    "serverError": "Server error. Check our Discord.",
-    "incorrectSubmission": "Wrong email or password",
-    "loginFailed": "Login failed!",
-    "invalidInput": "Invalid Input",
-    "maximumAccounts": "Reached Maximum Accounts Limit",
-    "summonerDoesntExist": "Summoner does not exist in this region. Try again.",
-    "summonerNotFound": "We're unable to find the summoner name in the region specified. Make sure you're not entering your login username, and check the region. Enter the same name you use to look yourself up on op.gg or similar sites.",
-    "missingSpellData": "'?' indicates that the data isn't available via the Riot Games API. Check the LoL client for the latest values.",
-    "notWorking": "Not working? Join our Discord for help.",
-    "checkSpelling": "Please double check region and spelling."
+    "emailRequired": "Email jest wymagany",
+    "invalidEmail": "Nieprawidłowy adres email",
+    "passwordRequired": "Hasło jest wymagane",
+    "emailRegistered": "Ten adres email jest już zarejestrowany. Zaloguj się za pomocą 'Mam już konto.'",
+    "serverError": "Błąd serwera. Sprawdź naszego Discorda.",
+    "incorrectSubmission": "Email lub hasło jest błędne",
+    "loginFailed": "Logowanie nie powiodło się!",
+    "invalidInput": "Nieprawidłowe Dane",
+    "maximumAccounts": "Osiągnięto Maksymalny Limit Kont",
+    "summonerDoesntExist": "Przywoływacz nie istnieje w tym regionie. Spróbuj ponownie.",
+    "summonerNotFound": "Nie byliśmy w stanie znaleźć przywoływacza w tym regionie. Upewnij się że wpisujesz nazwe przywoływacza, a nie login oraz sprawdź region. Wpisz tą samą nazwę której używać na op.gg lub podobnych stronach.",
+    "missingSpellData": "'?' oznacza, że dane nie są dostępne z Riot Games API. Sprawdź ostatnie wartości Klienta LoLa.",
+    "notWorking": "Nie działa? Dołącz do naszego Discorda po pomoc.",
+    "checkSpelling": "Sprawdź region i pisownie."
   },
   "betaTester": {
-    "welcome": "Welcome, Blitz Beta Tester!",
-    "thanks": "Thanks for being part of an exclusive group helping us improve the app.",
-    "howUsed": "So how do you use the Blitz app?",
+    "welcome": "Witaj, Testerze Blitz Beta!",
+    "thanks": "Cieszymy się, że jesteś częścią ekskluzywnej grupy i że chcesz pomóc rozwijać aplikacje.",
+    "howUsed": "Więc, jak używać aplikacji Blitz?",
     "steps": {
       "one": {
-        "part1": "Start a 5v5 League game.",
-        "part2": "We'll auto-detect your champion, recommend runes and builds, and scout your teammates and opponents. No typing required."
+        "part1": "Włącz grę 5v5.",
+        "part2": "Automatycznie wykryjemy twojego bohatera, rekomendowane runy i buildy, oraz wyświetlimy informacje o twojej drużynie i przeciwnikach. Nie trzeba nic wpisywać."
       },
-      "two": "Track your performance when you aren't in game. We provide match history and champion stats with recommended builds from top players."
+      "two": "Śledź swoje dokonania kiedy nie jesteś w grze. Zapewniamy historię meczy, statystyki bohaterów oraz rekomendowane buildy od najlepszych graczy."
     },
-    "gotIt": "Got it. Let me in!",
-    "blitzBetaPatchNotes": "Blitz Beta Patch {{version}} Notes",
-    "joinDiscord": "Join our Discord"
+    "gotIt": "Rozumiem. Wpuść mnie!",
+    "blitzBetaPatchNotes": "Lista Zmian Blitz Beta {{version}}",
+    "joinDiscord": "Dołącz do naszego Discorda",
   },
   "placeholders": {
-    "searchSummoner": "Search summoner or champion",
-    "lookChampion": "Look for a champion",
+    "searchSummoner": "Wyszukaj przywoływacza albo bohatera",
+    "lookChampion": "Wyszukaj bohatera",
     "email": "Email",
-    "summonerName": "Summoner Name (e.g. imaqtpie)",
-    "exampleSummoner": "Ex. imaqtpie"
+    "summonerName": "Nazwa Przywoływacza (np. imaqtpie)",
+    "exampleSummoner": "Np. imaqtpie"
   },
-  "garenaSupport": "Garena support is in <1>beta testing</1> from Blitz and the Riot Games API. As such, certain features like <3>live game</3> and <5>enemy scouting</5> are not available.",
-  "phRestriction": "Blitz can't run in PH due to IP restrictions.",
+  "garenaSupport": "Wsparcie Garena jest w trakcie <1>beta testów</1> z Blitz i the Riot Games API. Funkcje takie jakie jak <3>gra na żywo</3> i <5>rozeznanie przeciwników</5> nie są dostępne.",
+  "phRestriction": "Blitz nie może działać w PH przez restrykcje IP.",
   "client": {
-    "reload": "Reload",
-    "defaultWindowSize": "Restore to Default Window Size",
-    "checkForUpdates": "Check for Updates...",
-    "quitApp": "Quit Blitz",
-    "openDevTools": "Open Dev Tools"
+    "reload": "Odśwież",
+    "defaultWindowSize": "Przywróć Domyślny Rozmiar Okna",
+    "checkForUpdates": "Sprawdź Aktualizacje...",
+    "quitApp": "Wyjdź z Blitz",
+    "openDevTools": "Otwórz Narzędzia Dev"
   },
   "players": "Players",
   "languageDropdown": {
@@ -130,14 +130,14 @@
     "language": "Language"
   },
   "restartBar": {
-    "readyToInstall": "Update Ready to Install. Restarting in {{seconds}} seconds…",
-    "restart": "Restart",
-    "restartToApply": "We will restart in {{seconds}} seconds to apply the updates.",
+    "readyToInstall": "Aktualizacja Gotowa do Zainstalowania. Ponowne Uruchamianie w {{seconds}} sekund...",
+    "restart": "Uruchom Ponownie",
+    "restartToApply": "Ponowne Uruchomienie w {{seconds}} sekund, aby zastosować aktualizacje.",
     "intervals": {
-      "later": "Later",
-      "fifteenMins": "15 Minutes",
-      "thirtyMins": "30 Minutes",
-      "oneHour": "1 Hour"
+      "later": "Później",
+      "fifteenMins": "15 Minut",
+      "thirtyMins": "30 Minut",
+      "oneHour": "1 Godzina"
     }
   }
 }
