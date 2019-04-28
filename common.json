@@ -123,11 +123,11 @@
     "quitApp": "Wyjdź z Blitz",
     "openDevTools": "Otwórz Narzędzia Dev"
   },
-  "players": "Players",
+  "players": "Gracze",
   "languageDropdown": {
     "region": "Region",
-    "garenaRegion": "Garena Region",
-    "language": "Language"
+    "garenaRegion": "Region Garena",
+    "language": "Język"
   },
   "restartBar": {
     "readyToInstall": "Aktualizacja Gotowa do Zainstalowania. Ponowne Uruchamianie w {{seconds}} sekund...",
